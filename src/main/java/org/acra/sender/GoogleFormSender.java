@@ -36,6 +36,8 @@ import android.util.Log;
 
 /**
  * ACRA's default {@link ReportSender}: sends report data to a GoogleDocs Form.
+ * Be aware that support for this class will be discontinued in the future. For
+ * more details please read the readme.
  * 
  * @author Kevin Gaudin
  * 
